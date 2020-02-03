@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEditor;
+#if (UNITY_EDITOR)
 using UnityEditor.SceneManagement;
 
 public class DefaultSceneLoader : MonoBehaviour
@@ -26,3 +27,4 @@ public class DefaultSceneLoader : MonoBehaviour
     }
 }
 
+#endif

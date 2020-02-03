@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using UnityEditor;
+#if (UNITY_EDITOR)
 using UnityEditor.SceneManagement;
-
 [InitializeOnLoad]
+#endif
+
 public class Startup
 {
     static Startup()
