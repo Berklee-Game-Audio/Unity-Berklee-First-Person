@@ -1,7 +1,9 @@
 # Unity-Berklee-First-Person
 A first person starter scene from [Unity-Berklee-Standard-Asset-Packages](https://github.com/Berklee-Game-Audio/Unity-Berklee-Standard-Asset-Packages). Includes basic 3D world and footsteps.
 Optimized for Unity Version:
-Unity 6.3 LTS (6000.3.2f1) 
+Optimized for Unity Version: 
+6.3 LTS (6000.3.10f1)
+
 
 ## Instructions
 Load scene: `Assets/FirstPerson/Scenes/FirstPerson.unity`
